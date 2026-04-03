@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+google_circuits/OTOC2_circuits.zip
